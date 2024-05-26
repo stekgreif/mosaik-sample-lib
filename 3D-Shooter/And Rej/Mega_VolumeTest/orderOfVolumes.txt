@@ -1,0 +1,12 @@
+k slg
+k sgl sil
+k full
+k full sil
+
+mx s
+mx s sil
+mx full 
+mx full sil
+
+GM6
+m320
